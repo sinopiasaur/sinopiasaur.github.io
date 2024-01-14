@@ -5,23 +5,27 @@ div.center {
 /**
  * Pagination navbar
  */
+.pager {
+	text-align: center;
+}
 .pagination {
 	margin-bottom: $spacing-unit;
 	@extend .social-media-list;
 	li {
+		display: inline;
 		a, div {
 			min-width: 41px;
 			text-align: center;
 			box-sizing: border-box;
 		}
 		div {
-			display: block;
+			display: inline-block;
 			padding: $spacing-unit * .25;
 			border: 1px solid transparent;
 
 			&.pager-edge {
 				/** color: $border-color-01; */
-				border: 1px dashed;
+				border: 0px;
 			}
 		}
 	}

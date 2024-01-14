@@ -37,7 +37,7 @@ plugins:
 
 
 # From dfederm.com
-permalink: /:title/
+permalink: /:year-:month/:title/
 markdown: kramdown
 paginate: 5
 paginate_path: "/:num/"
