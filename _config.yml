@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: "sinopiasaur"
+author: "Ava Jarvis"
 email: "me@avajarvis.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts on board games, journaling games, fiction, and art, I guess.
@@ -35,6 +36,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+header_pages:
+  - about.md
+  - art.md
+  - tabletop-games.md
+  - quick/buttonshy.md
 
 # From dfederm.com
 permalink: /:year-:month/:title/
@@ -42,6 +48,9 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/:num/"
 date_format: "%Y.Th%-m.%e"
+
+kramdown:
+  parse_block_html: true
 
 
 # Exclude from processing.
