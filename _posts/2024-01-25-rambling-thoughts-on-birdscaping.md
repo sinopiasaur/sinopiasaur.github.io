@@ -9,9 +9,9 @@ authors:
 
 *Originally from Discord.*
 
-So here are my thoughts on [Birdscaping](https://boardgamegeek.com/boardgame/366484/birdscaping), which are long and not the most complimentary, and I am not an experienced game designer but I think about games a lot. 
+So here are my thoughts on [Birdscaping](https://boardgamegeek.com/boardgame/366484/birdscaping) (Joe Klipfel), which are long and not the most complimentary, and I am not an experienced game designer but I think about games a lot. 
 
-So first, Birdscaping is in many ways seems to have a goal of capturing [Wingspan](https://stonemaiergames.com/games/wingspan/), a very good game even if it's not for me save for the exquisite bird theme, in 18 cards.
+So first, Birdscaping is in many ways seems to have a goal of capturing [Wingspan](https://stonemaiergames.com/games/wingspan/) (Elizabeth Hargrave), a very good game even if it's not for me save for the exquisite bird theme, in 18 cards.
 
 This might have been a mistake.
 

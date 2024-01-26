@@ -9,7 +9,7 @@ authors:
 
 ## Very Briefly
 
-[The Brambles](https://www.thegamecrafter.com/games/the-brambles:-a-solo-card-game) is a solo card game with a great Gothic horror aesthetic wherein you use card combinations to battle a mystical, deadly bramble thicket that has stolen a group of children.
+[The Brambles](https://www.thegamecrafter.com/games/the-brambles:-a-solo-card-game) (John Burton) is a solo card game with a great Gothic horror aesthetic wherein you use card combinations to battle a mystical, deadly bramble thicket that has stolen a group of children.
 
 Plainly speaking: The Brambles is a solo/coop take on familiar Rummy-style mechanics that adds twists with special cards and a simple yet fierce opponent.
 

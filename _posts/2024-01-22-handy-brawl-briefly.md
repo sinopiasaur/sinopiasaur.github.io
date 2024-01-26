@@ -9,7 +9,7 @@ authors:
 
 ## Very Briefly
 
-[Handy Brawl](https://boardgamegeek.com/boardgame/362692/handy-brawl) is a fantasy brawler in-hand card game featuring multiple heroes to play as, multiple enemies to battle, and layers of depth to explore.
+[Handy Brawl](https://boardgamegeek.com/boardgame/362692/handy-brawl) (Igor Zuber) is a fantasy brawler in-hand card game featuring multiple heroes to play as, multiple enemies to battle, and layers of depth to explore.
 
 ## Briefly
 

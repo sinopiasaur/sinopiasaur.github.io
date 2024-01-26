@@ -9,7 +9,7 @@ authors:
 
 ## Very Briefly
 
-[Dragons of Etchinstone](https://www.thegamecrafter.com/games/dragons-of-etchinstone) is a solo 18-card game playable entirely in-hand whose mechanics and theme will be quite familiar to fans of the classic board game [Mage Knight](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game). 
+[Dragons of Etchinstone](https://www.thegamecrafter.com/games/dragons-of-etchinstone) (Joe Klipfel) is a solo 18-card game playable entirely in-hand whose mechanics and theme will be quite familiar to fans of the classic board game [Mage Knight](https://boardgamegeek.com/boardgame/96848/mage-knight-board-game). 
 
 If you love Mage Knight but can't often find the tablespace or the time for it, a game like Dragons of Etchinstone is a most satisfactory, travel-sized itch-scratcher.
 
