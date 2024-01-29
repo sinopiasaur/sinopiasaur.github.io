@@ -6,13 +6,6 @@ authors:
 - chi
 ---
 
-# Note
-{: class="no_toc"}
-
-This has been moved under the [Quick](/quick/) section as [A Quick Guide to Converge Skillsets](/quick/quick-guide-to-converge-skillsets). 
-
-The original post follows below.
-
 # Introduction
 {: class="no_toc"}
 
