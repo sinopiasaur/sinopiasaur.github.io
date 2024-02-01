@@ -45,7 +45,7 @@ header_pages:
 # From dfederm.com
 permalink: /:year-:month/:title/
 markdown: kramdown
-paginate: 10 
+paginate: 5
 paginate_path: "/:num/"
 date_format: "%Y.Th%-m.%e"
 
