@@ -5,6 +5,7 @@ categories: tabletop-games
 authors: 
 - anh
 - chi
+excerpt: "A brief review of Handy Brawl, a fantasy brawler in-hand card game featuring multiple heroes to play as, multiple enemies to battle, and layers of depth to explore."
 ---
 
 ## Very Briefly

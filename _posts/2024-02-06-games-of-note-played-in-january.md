@@ -5,7 +5,11 @@ categories: tabletop-games
 authors: 
 - anh
 - chi
+excerpt: "Some of the games I played in January, 2024."
 ---
+
+Note: any games still in playtest are not mentioned.
+
 # Games for a Moment
 Quick games that I filled time between pomodoros, eye rest, wrist rest, etc, with.
 - [Dice Squared](https://weheartgames.itch.io/dice-squared) (Mike Berg). 5-10 minutes, solo. If you have some d6s lying around, Dice Squared is an ideal little game. It's quick but interesting enough to be replayed again and again. A tiny footprint, quick rules, and dice manipulation. A growing favorite of mine.

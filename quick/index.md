@@ -4,6 +4,7 @@ title: "Quick Guides"
 authors: 
 - anh
 - chi
+excerpt: "Miscellaneous quick guides that are essentially evergreen material."
 ---
 
 Miscellaneous quick guides that are essentially evergreen material.

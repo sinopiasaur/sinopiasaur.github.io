@@ -4,6 +4,7 @@ title: Button Shy, Quick
 authors:
 - anh
 - chi
+excerpt: "Quick descriptions of Button Shy wallet games, with a focus on solo games and solo expansions."
 ---
 
 # Introduction

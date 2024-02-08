@@ -4,6 +4,7 @@ title: "I Am Tired of AI Art Conversations"
 categories: art
 authors: 
 - chi
+excerpt: "The genie is not what you think it is."
 ---
 
 # Context

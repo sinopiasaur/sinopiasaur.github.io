@@ -4,6 +4,7 @@ title: "A Quick Guide to Converge Skillsets"
 authors: 
 - anh
 - chi
+excerpt: "I love playing Converge (Peter C. Hayward) solo, so when someone asked me for my thoughts on the different skillsets in the game, I wrote this little guide, applicable to both solo and 2-player."
 ---
 
 # Introduction

@@ -5,6 +5,7 @@ categories: tabletop-games
 authors: 
 - anh
 - chi
+excerpt: "Rambling thoughts musing on why I don't click with Birdscaping."
 ---
 
 *Originally from Discord.*

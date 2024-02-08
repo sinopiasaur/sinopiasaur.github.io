@@ -5,6 +5,7 @@ categories: tabletop-games
 authors: 
 - anh
 - chi
+excerpt: "A brief review of The Brambles, an approachable solo card game with a great Gothic horror aesthetic, with mechanics based on games in the rummy family."
 ---
 
 ## Very Briefly

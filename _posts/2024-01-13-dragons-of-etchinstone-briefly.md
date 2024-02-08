@@ -5,6 +5,7 @@ categories: tabletop-games
 authors: 
 - anh
 - chi
+excerpt: "A brief review of Dragons of Etchinstone. If you love Mage Knight but can't often find the tablespace or the time for it, this game is a most satisfactory, travel-sized itch-scratcher."
 ---
 
 ## Very Briefly
