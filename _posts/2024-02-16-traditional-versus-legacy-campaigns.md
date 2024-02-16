@@ -13,7 +13,7 @@ This was going to be a nice little article about games I had the pleasure of pla
 * why legacy campaigns are the way they are
 * why traditional campaigns cannot be legacy campaigns
 * why neither campaign type is a blight on the hobby and there's more than enough room for both
-* and why it is so important -- as a consumer or board games -- to understand what you're getting into with either type of campaign.
+* and why it is so important -- as a consumer of board games -- to understand what you're getting into with either type of campaign.
 
 So now let's talk in detail.
 
@@ -55,7 +55,7 @@ Stickers and destructible components are actually the *cheapest*, most user-frie
 
 Traditional campaigns do not destroy or permanently modify their components -- and as a result, they cannot provide the unexpected twists and turns in the way a legacy game can. 
 
-The closest I have seen a traditional campaign come to legacy in terms of radical changes would be the campaign of CGE's Under Falling Skies -- and they do what I said a Legacy game would need to do to be non-destructive: they provide entire replacement *boards*. It's thanks to Under Falling Skies' modular nature from the start that made this quasi-legacy campaign experience even possible to do on a reasonable budget.
+The closest I have seen a traditional campaign come to legacy in terms of radical changes would be the campaign of CGE's [Under Falling Skies](https://czechgames.com/en/under-falling-skies/) (Tomáš Uhlíř) -- and they do what I said a Legacy game would need to do to be non-destructive: they provide entire replacement *boards*. It's thanks to Under Falling Skies' modular nature from the start that made this quasi-legacy campaign experience even possible to do on a reasonable budget.
 
 And even so? Under Falling Skies never radically changes the play loop, never rips away the underlying theme and genre, never creates an incompatible version of the game that cannot be played with all the original components as a simple expansion of the base game.
 
