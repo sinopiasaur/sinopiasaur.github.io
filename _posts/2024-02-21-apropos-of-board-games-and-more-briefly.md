@@ -10,7 +10,7 @@ excerpt: "Can a trivia game exist with just 18 cards instead of 800? With Peter 
 
 # Very Briefly
 
-Can a trivia game exist with just 18 cards instead of 800? With Peter C. Hayward's Apropos series, yes, it can! The Apropos series (such as Apropos of Board Games and Apropos of Movies) avoids common annoyances in many trivia games and is approachable to all, including the trivia-weary.
+Can a trivia game exist with just 18 cards instead of 800? With Peter C. Hayward's Apropos series, yes, it can! The Apropos series (such as [Apropos of Board Games](https://buttonshygames.com/products/apropos-of-board-games) and [Apropos of Movies](https://buttonshygames.com/products/apropos-of-movies)) avoids common annoyances in many trivia games and is approachable to all, including the trivia-weary.
 
 # Briefly
 
